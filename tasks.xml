@@ -1,0 +1,26 @@
+<ArrayList>
+  <item>
+    <title>Go to the product market</title>
+    <done>true</done>
+  </item>
+  <item>
+    <title>Walk with a dog</title>
+    <done>true</done>
+  </item>
+  <item>
+    <title>Change a lamp</title>
+    <done>true</done>
+  </item>
+  <item>
+    <title>Go to the school</title>
+    <done>true</done>
+  </item>
+  <item>
+    <title>Write a book</title>
+    <done>true</done>
+  </item>
+  <item>
+    <title>Write a note</title>
+    <done>false</done>
+  </item>
+</ArrayList>
